@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Blight-Phoenix
+- 👋 Hi, I’m Naveen Suresh Nair
+- I'm a first year student in National Institute of Technology Tiruchirapalli
 - 👀 I’m interested in Coding, AI, ML, and web development
-- 🌱 I’m currently learning basics of python, c, c++
+- 🌱 I’m currently learning python, c, c++, html
 
 
 <!---
